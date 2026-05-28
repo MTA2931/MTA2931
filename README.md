@@ -1,5 +1,5 @@
 
-![Header](./image_gen_6f93e5fd-efdf-4833-aa75-5ea32813c474_0.png)
+![Header]([./image_gen_6f93e5fd-efdf-4833-aa75-5ea32813c474_0.png](https://gapgpt.app/media-f0/server_files/4c235bce-ad69-4308-ad77-911c3a486351.png))
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&left=true&size=28)](https://git.io/typing-svg)
 
