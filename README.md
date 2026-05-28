@@ -1,49 +1,121 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&left=true&size=28)](https://git.io/typing-svg)
+````md
+<div align="center">
 
-![Views](https://visitor-badge.laobi.icu/badge?page_id=MTA2931)
-### Web Developer and Python Programmer
+# 👋 Hi, I'm Mani
 
-I'm a passionate developer focused on building practical, clean, and efficient digital solutions.  
-I enjoy working on web development projects and creating useful applications with Python.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Web+Developer;Python+Programmer;Building+Creative+Projects;Always+Learning+New+Things)](https://git.io/typing-svg)
 
----
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MTA2931.MTA2931&left_color=black&right_color=00bfff" />
 
-## 🚀 About Me
-
-- 💻 Web Developer
-- 🐍 Python Programmer
-- 🎯 Focused on learning, building, and improving
-- 🌱 Always exploring new technologies
-- 🛠 Interested in practical and creative projects
+</div>
 
 ---
 
-## 💻 Skills
+# 🚀 About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+```python
+class Mani:
+    role = "Web Developer & Python Programmer"
+
+    skills = [
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "GitHub"
+    ]
+
+    interests = [
+        "Web Development",
+        "Automation",
+        "Telegram Bots",
+        "Creative Projects"
+    ]
+
+    current_goal = "Building useful and clean digital solutions"
+````
+
+* 💻 Passionate about coding and building real projects
+* 🐍 Python developer with interest in automation and backend systems
+* 🌐 Focused on modern web development
+* 🎯 Always learning and improving
+* ⚡ I enjoy creating practical and creative applications
 
 ---
 
-## 🧰 Tools
+# 💻 Tech Stack
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🧰 Tools & Environment
 
-- <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16" /> <a href="https://t.me/MTA_co">Telegram</a>
-- <img src="https://cdn.simpleicons.org/gmail/EA4335" height="16" /> <a href="mailto:toutounchimani@gmail.com">Gmail</a>
-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000" />
-    <img alt="GitHub" src="https://cdn.simpleicons.org/github/000000" height="16" />
-  </picture>
-  <a href="https://github.com/MTA2931">GitHub</a>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=00FF88)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MTA2931&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTA2931&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Current Focus
+
+* Building useful web applications
+* Creating Telegram bots
+* Improving backend development skills
+* Learning modern technologies and clean architecture
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://t.me/MTA_co">
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+</a>
+
+<a href="mailto:toutounchimani@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://github.com/MTA2931">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Code. Learn. Build. Repeat.”
+
+</div>
+```
+
