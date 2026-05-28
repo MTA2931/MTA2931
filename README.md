@@ -39,6 +39,6 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📫 Connect With Me
 
-- Telegram: ![MTA_co](https://t.me/MTA_co)
-- Mail: ![Gmail](toutounchimani@gmail.com)
-- Github: ![MTA2931](https://github.com/MTA2931)
+- <img src="https://cdn.simpleicons.org/telegram" height="16" /> <a href="https://t.me/MTA_co">Telegram</a>
+- <img src="https://cdn.simpleicons.org/gmail" height="16" /> <a href="mailto:toutounchimani@gmail.com">Gmail</a>
+- <img src="https://cdn.simpleicons.org/github" height="16" /> <a href="https://github.com/MTA2931">GitHub</a>
