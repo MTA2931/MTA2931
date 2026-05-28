@@ -38,5 +38,5 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📫 Connect With Me
 
-- GitHub: [MTA2931](https://github.com/MTA2931),
-- Telegram: [MTA_co](t.me/MTA_co)
+- GitHub: [MTA2931](https://github.com/MTA2931)
+- Telegram: [MTA_co](https://t.me/MTA_co)
