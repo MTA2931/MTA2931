@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MTA2931&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20Web%20Developer&descAlignY=60&descSize=25)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&left=true&size=28)](https://git.io/typing-svg)
 
