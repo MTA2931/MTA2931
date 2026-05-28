@@ -1,4 +1,5 @@
-# Hi there, I'm MTAco 👋
+
+# Hi there, I'm Mani 👋
 
 ### Web Developer and Python Programmer
 
@@ -42,20 +43,7 @@ Website for managing projects.
 
 ---
 
-## 📊 GitHub Stats
-
-![MTA2931's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA2931&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTA2931&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: [MTA2931](https://github.com/MTA2931)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy coding, building useful projects, and constantly improving my skills.
+- Telegram: [MTA_co](t.me/MTA_co)
