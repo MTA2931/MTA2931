@@ -39,6 +39,6 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📫 Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MTA_co)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTA2931)
-
+- Telegram: ![MTA_co](https://t.me/MTA_co)
+- Mail: ![Gmail](toutounchimani@gmail.com)
+- Github: ![MTA2931](https://github.com/MTA2931)
