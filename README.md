@@ -1,8 +1,8 @@
 
 # Hi there, I'm Mani 👋
 
-### Web Developer and Python Programmer
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=MTA2931)
+### Web Developer and Python Programmer
 
 I'm a passionate developer focused on building practical, clean, and efficient digital solutions.  
 I enjoy working on web development projects and creating useful applications with Python.
