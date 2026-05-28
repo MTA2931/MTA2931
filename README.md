@@ -36,14 +36,7 @@ I enjoy working on web development projects and creating useful applications wit
 
 ---
 
-## 📌 Featured Project
-
-### [Project-Managering-Website](https://github.com/MTA2931/Project-Managering-Website)
-Website for managing projects.
-
----
-
 ## 📫 Connect With Me
 
-- GitHub: [MTA2931](https://github.com/MTA2931)
+- GitHub: [MTA2931](https://github.com/MTA2931),
 - Telegram: [MTA_co](t.me/MTA_co)
