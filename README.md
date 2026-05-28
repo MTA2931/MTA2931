@@ -1,7 +1,6 @@
 
-# Hi there, I'm Mani 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&center=true&size=25)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+MTAco;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&center=true&size=25)](https://git.io/typing-svg)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=MTA2931)
 ### Web Developer and Python Programmer
 
