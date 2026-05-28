@@ -1,7 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&center=true&size=25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&left=true&size=28)](https://git.io/typing-svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MTA2931&theme=tokyonight&hide_border=true)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=MTA2931)
 ### Web Developer and Python Programmer
 
