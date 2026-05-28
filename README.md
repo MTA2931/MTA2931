@@ -1,6 +1,4 @@
 
-![Header](4c235bce-ad69-4308-ad77-911c3a486351.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,++I'm+Mani;Web+Developer;Python+Programmer;Welcome+to+my+GitHub!&left=true&size=28)](https://git.io/typing-svg)
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=MTA2931)
