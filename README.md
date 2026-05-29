@@ -36,11 +36,6 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📫 Connect With Me
 
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MTA_co)
-- <img src="https://cdn.simpleicons.org/gmail/EA4335" height="16" /> <a href="mailto:toutounchimani@gmail.com">Gmail</a>
-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000" />
-    <img alt="GitHub" src="https://cdn.simpleicons.org/github/000000" height="16" />
-  </picture>
-  <a href="https://github.com/MTA2931">GitHub</a>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MTA_co)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toutounchimani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTA2931)
