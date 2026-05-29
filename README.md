@@ -25,17 +25,11 @@ I enjoy working on web development projects and creating useful applications wit
 
 ---
 
-## 🧰 Tools ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
----
-
-## 🖥️ Terminal
-
-<p>
-<img src="https://img.shields.io/badge/VS_Code-black?style=flat&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
-</p>
+## 🧰 Tools 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
