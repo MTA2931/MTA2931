@@ -47,3 +47,10 @@ I enjoy working on web development projects and creating useful applications wit
     <img alt="GitHub" src="https://cdn.simpleicons.org/github/000000" height="16" />
   </picture>
   <a href="https://github.com/MTA2931">GitHub</a>
+
+---
+
+## 📊 GitHub Stats
+
+![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA2931&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTA2931&layout=compact&theme=tokyonight)
