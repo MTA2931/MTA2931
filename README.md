@@ -52,5 +52,4 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📊 GitHub Stats
 
-![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA2931&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTA2931&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MTA2931&theme=tokyonight)
