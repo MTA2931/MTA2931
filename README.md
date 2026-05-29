@@ -36,7 +36,7 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📫 Connect With Me
 
-- <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="16" /> <a href="https://t.me/MTA_co">Telegram</a>
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MTA_co)
 - <img src="https://cdn.simpleicons.org/gmail/EA4335" height="16" /> <a href="mailto:toutounchimani@gmail.com">Gmail</a>
 - <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
@@ -44,7 +44,3 @@ I enjoy working on web development projects and creating useful applications wit
     <img alt="GitHub" src="https://cdn.simpleicons.org/github/000000" height="16" />
   </picture>
   <a href="https://github.com/MTA2931">GitHub</a>
-
----
-
-## 
