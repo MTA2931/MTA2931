@@ -52,4 +52,4 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MTA2931&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,django,git,github,vscode)](https://skillicons.dev)
