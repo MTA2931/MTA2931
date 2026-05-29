@@ -30,6 +30,16 @@ I enjoy working on web development projects and creating useful applications wit
 
 ---
 
+## 🖥️ Terminal
+
+<p>
+<img src="https://img.shields.io/badge/VS_Code-black?style=flat&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MTA_co)
