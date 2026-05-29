@@ -25,12 +25,11 @@ I enjoy working on web development projects and creating useful applications wit
 
 ---
 
-## ⚒️ Tools
+## 🧰 Tools
 
-<img src="https://cdn.simpleicons.org/git/F05032" height="40" />
-<img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" />
-<img src="https://cdn.simpleicons.org/pycharm/21D789" height="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
 
 ---
 
